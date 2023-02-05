@@ -1,7 +1,7 @@
 ### Hi there, I'm Fabian - aka [ThegreenY][website] 👋 
 
 [![Website](https://img.shields.io/website?label=Homepage&style=for-the-badge&url=https%3A%2F%2Fthegreeny.de)](https://thegreeny.de)
-[![Twitch Follow](https://img.shields.io/twitch/status/thegreen_y?color=6441a5&logo=twitch&style=for-the-badge)][twitch]
+[![Twitch Follow](https://img.shields.io/twitch/status/thegreen_y?label=Thegreen_Y&color=6441a5&logo=twitch&style=for-the-badge)][twitch]
 
 ## I'm a Front- and Backend WebDeveloper!!
 
