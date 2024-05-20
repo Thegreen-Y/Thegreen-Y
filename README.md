@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=Homepage&style=for-the-badge&url=https%3A%2F%2Fthegreeny.de)](https://thegreeny.de)
 [![Twitch Follow](https://img.shields.io/twitch/status/thegreen_y?label=Thegreen_Y&color=6441a5&logo=twitch&style=for-the-badge)][twitch]
 
-## I'm a Front- and Backend WebDeveloper!!
+## I'm a Front- and Backend WebDeveloper!
 
-- 🌱 I’m currently working on the [Story-V][story-v] & [Calitha][calitha] Projects
+- 🌱 I’m currently working on the [Calitha][calitha] & [Story-V][story-v] Projects
 - ⚡ Fun fact: I love the color Green!
 
 ### Contact me:
