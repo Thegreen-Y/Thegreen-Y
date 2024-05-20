@@ -5,7 +5,7 @@
 
 ## I'm a Front- and Backend WebDeveloper!!
 
-- 🌱 I’m currently working on the [Story-V Project][story-v]
+- 🌱 I’m currently working on the [Story-V][story-v] & [Calitha][calitha] Projects
 - ⚡ Fun fact: I love the color Green!
 
 ### Contact me:
@@ -41,6 +41,7 @@
 
 [website]: https://www.thegreeny.de/
 [story-v]: https://www.story-v.de/
+[calitha]: http://www.calitha.de/
 
 [youtube]: https://www.youtube.com/channel/UCNzB50yKhjxJePtwEf3rgXw/
 [twitch]: https://www.twitch.tv/thegreen_y/
